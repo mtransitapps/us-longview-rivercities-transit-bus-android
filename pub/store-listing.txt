@@ -6,7 +6,7 @@ Schedule. News.
 ----------
 What's new in this version?:
 Schedule from January 1, 2014 to December 31, 2016.
-Rider Alerts from rctransit.org.
+News from rctransit.org.
 ----------
 Full description:
 This app adds RiverCities Transit buses information to MonTransit.
