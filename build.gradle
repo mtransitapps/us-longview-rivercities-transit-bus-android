@@ -68,6 +68,8 @@ android {
             renderscript.srcDirs = ['src']
             res.srcDirs = ['res']
             assets.srcDirs = ['assets']
+            res.srcDirs += 'res-current'
+            res.srcDirs += 'res-next'
         }
 
         debug.setRoot('build-types/debug')
