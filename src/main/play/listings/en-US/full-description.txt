@@ -1,14 +1,3 @@
-Title: RiverCities Transit Bus - Mon…
-----------
-Short description:
-RiverCities Transit Bus for MonTransit.
-Schedule. News.
-----------
-What's new in this version?:
-Schedule from December 18, 2017 to December 31, 2019.
-News from rctransit.org.
-----------
-Full description:
 This app adds RiverCities Transit buses information to MonTransit.
 
 This app provides the buses schedule as well as the latest news from rctransit.org.
@@ -17,7 +6,7 @@ RiverCities Transit buses serve Longview and Kelso in Washington, United States.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
@@ -31,18 +20,3 @@ This app is not related with RiverCities Transit or Trillium or Cowlitz Transit 
 
 Permissions:
 - Other: required to news from rctransit.org
-----------
-Application type: Applications
-----------
-Category: Transportation
-----------
-Content rating: Low Maturity
-----------
-Website: https://github.com/mtransitapps/us-longview-rivercities-transit-bus-android
-----------
-Email: mtransit.apps+GooglePlay@gmail.com
-----------
-Phone:
-----------
-Privacy Policy:
-----------
