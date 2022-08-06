@@ -1,2 +1,1 @@
-RiverCities Transit Bus for MonTransit.
-Schedule. News.
+RiverCities Transit Bus for MonTransit. Schedule. News.
