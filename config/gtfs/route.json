@@ -1,0 +1,21 @@
+{
+  "default_route_id_enabled": "true",
+  "use_route_short_name_for_route_id": "true",
+  "default_route_long_name_enabled": "true",
+  "use_route_long_name_for_missing_route_short_name": "true",
+  "route_long_name_cleaners": [
+    {
+      "regex": "(^\\d+$)"
+    }
+  ],
+  "route_colors": [],
+  "trip_headsign_cleaners": [
+    {
+      "regex": "loop route",
+      "replacement": "Loop",
+      "is_word": "true"
+    }
+  ],
+  "trip_headsign_remove_via": "true",
+  "direction_finder_enabled": "true"
+}
