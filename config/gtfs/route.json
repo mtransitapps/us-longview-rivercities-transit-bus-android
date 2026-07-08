@@ -6,6 +6,12 @@
   "route_long_name_cleaners": [
     {
       "regex": "(^\\d+$)"
+    },
+    {
+      "regex": "(loop|northbound|southbound|eastbound|westbound)",
+      "is_word": "true",
+      "ignore_case": "true",
+      "comment": "remove directions from 'directions.txt'"
     }
   ],
   "route_colors": [],
@@ -17,5 +23,10 @@
     }
   ],
   "trip_headsign_remove_via": "true",
-  "direction_finder_enabled": "true"
+  "direction_finder_enabled": "true",
+  "direction_types": [
+    0,
+    1
+  ],
+  "direction_types_comment": "cardinal direction & strings"
 }
